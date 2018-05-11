@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>btn.png</file>
+        <file>btn_disabled.png</file>
+    </qresource>
+</RCC>
